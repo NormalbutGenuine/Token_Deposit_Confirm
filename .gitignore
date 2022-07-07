@@ -1,0 +1,5 @@
+node_service/node_modules/
+node_service/package-lock.json
+node_service/test.js
+
+node_service/config
